@@ -19,6 +19,7 @@ The following tools were used in this project:
 - [Dart](https://dart.dev/)
 - [Vs Code](https://code.visualstudio.com/)
 - [Firebase](https://firebase.google.com)
+- [Admob](https://admob.google.com/intl/tr/home/)
 - [Whatsapp](https://www.whatsapp.com/?lang=tr)
 
 
